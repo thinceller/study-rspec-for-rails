@@ -8,6 +8,9 @@ end
 # base
 gem 'rails', '~> 5.0.1'
 gem 'puma', '~> 3.0'
+gem 'turbolinks'
+# gem 'devise'
+# gem 'omniauth-twitter'
 
 # db
 gem 'mysql2'
